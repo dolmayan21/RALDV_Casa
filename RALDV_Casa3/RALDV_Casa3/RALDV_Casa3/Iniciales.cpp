@@ -141,6 +141,9 @@ void display ( void )   // Creamos la funcion donde se dibuja
 
 
 
+
+
+
 					/// LETRA M
 
 		//  S    I    D   Izq   F    B    b    h  profundo
