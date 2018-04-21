@@ -1,0 +1,4 @@
+﻿  main_prac8_texto.cpp
+c:\users\leondelvillar\desktop\raldv_casa8\raldv_casa8\main_prac8_texto.cpp(109): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  RALDV_Casa8.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Casa8\RALDV_Casa8\Debug\RALDV_Casa8.exe
+  RALDV_Casa8.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Casa8\RALDV_Casa8\Debug\RALDV_Casa8.pdb (Partial PDB)
