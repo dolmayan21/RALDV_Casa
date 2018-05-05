@@ -1,0 +1,17 @@
+CONTROLES PARA "MANO CON MOVIMIENTO"
+
+		
+		O-o: Reproducir Animación
+
+		s/S: Far
+		w/W: Near
+		l-L: Moverse a la Izquierda
+		r-R: Moverse a la Derecha
+	
+
+		H: Subir hombro
+		h: Bajar hombro
+		c: Bajar Codo
+		C: Subir Codo
+		M: Acercar Muñeca
+		m: Alejar Muñeca
